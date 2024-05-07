@@ -1,2 +1,7 @@
-package Polymorphism;public class A {
+package Polymorphism;
+
+public class A {
+    void doSomething(){
+        System.out.println("Hello");
+    }
 }

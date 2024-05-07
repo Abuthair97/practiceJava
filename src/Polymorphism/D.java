@@ -1,2 +1,5 @@
-package Polymorphism;public class D {
+package Polymorphism;
+
+public class D extends C{
+
 }
